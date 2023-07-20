@@ -8,4 +8,4 @@ if(a>c){
     document.querySelector("h1").textContent="Player 1 wins";
 }
 else if(a<c){document.querySelector("h1").textContent="Player 2 wins";}
-else document.querySelector("h1").textContent="TIE😂";
+else document.querySelector("h1").textContent="NIMMI is BLACK CAT🐈‍⬛🐈‍⬛";
